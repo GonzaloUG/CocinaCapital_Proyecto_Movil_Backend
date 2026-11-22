@@ -14,11 +14,11 @@ por beneficios.
 
 ## Microservicios
 
-| Microservicio | Puerto | Función |
-
-| 'usuarios-service' | '8081' | Registro, inicio de sesión y gestión del perfil. |
-| 'locales-service'  | '8082' | Listar, consultar, crear, editar y eliminar locales. |
-| 'tickets-service'  | '8083' | Gestionar compras de tickets, saldo y canje de cupones. |
+| Microservicio | Puerto previsto | Función |
+| --- | --- | --- |
+| `usuarios-service` | `8081` | Registro, inicio de sesión y gestión del perfil. |
+| `locales-service` | `8082` | Listar, consultar, crear, editar y eliminar locales. |
+| `tickets-service` | `8083` | Gestionar compras de tickets, saldo y canje de cupones. |
 
 ## Tecnologías previstas
 
